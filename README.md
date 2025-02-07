@@ -19,11 +19,7 @@
 - 📦 **E-Commerce Backend (Spring Boot + MySQL + Kafka + AWS)**
   - **Built a scalable e-commerce platform** with user authentication, order management, and product catalog.
   - **Optimized system performance** by implementing Redis caching and async processing with Kafka.
-  - **[GitHub Repo](https://github.com/jiayixu123/ecommerce-platform)**
-
-- 🏆 **LeetCode Solutions**
-  - **Practicing algorithms daily** to improve problem-solving skills.
-  - **[GitHub Repo](https://github.com/jiayixu123/leetcode-solutions)**
+  - **[GitHub Repo](https://github.com/AdelineXu-SDE/springboot-ecommerce)**
 
 📫 **Reach Me**:  
 - ✉️ Email: `adelinexu22@gmail.com`
