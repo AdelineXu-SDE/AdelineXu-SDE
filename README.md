@@ -2,7 +2,6 @@
 
 **Aspiring Software Developer | Backend Engineer | Java & Cloud Enthusiast**
 
----
 
 ## 📌 About Me
 - 🎓 Graduated from University of Alberta (BSc in CS) & University of Toronto (MEd)  
@@ -11,7 +10,6 @@
 - 🔍 Actively transitioning toward **AI Engineering**  
 - 🤖 Interested in LLM applications, automation workflows, and intelligent tools  
 
----
 
 ## 🛠 Technical Skills
 
@@ -21,7 +19,6 @@
 **Infrastructure:** Docker, Kafka, Git, Linux  
 **Cloud:** AWS (EC2, S3)  
 
----
 
 ## 📂 Featured Projects
 
@@ -38,7 +35,6 @@ A modular AI pipeline that:
 - Clean REST API design & scalable architecture  
 🔗 https://github.com/AdelineXu-SDE/springboot-ecommerce  
 
----
 
 ## 🤝 Connect With Me
 - 📧 adelinexu22@gmail.com  
