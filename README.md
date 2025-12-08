@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Adeline Xu
 
-**Aspiring Software Developer | Backend Engineer | Java & Cloud Enthusiast**
+**Backend Developer | LLM Applications | Java • Python • Cloud**
 
 
 ## 📌 About Me
