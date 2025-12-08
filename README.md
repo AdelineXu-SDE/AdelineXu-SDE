@@ -1,28 +1,51 @@
-# Hi, I'm Adeline Xu 👋
+# 👋 Hi, I'm Adeline Xu  
 
-🚀 Aspiring Software Developer | Backend Engineer | Java & Spring Boot Enthusiast
+**AI Engineer & Software Developer | Python · Java · Cloud · LLM Applications**
 
-🔹 **About Me**
-- 🎓 Graduated from University of Alberta (BSc in CS) and University of Toronto (MEd)
-- 💼 Currently preparing for an SDE job
-- 🌱 Learning **Spring Boot, AWS, Kafka, System Design**
-- 💡 Passionate about **Building Scalable Systems & Microservices**
+---
 
-🔹 **Technical Skills**
-- 💻 **Languages**: Java, Python, SQL
-- 🛠 **Frameworks & Tools**: Spring Boot, Hibernate, Kafka, Docker, AWS
-- 🗄 **Databases**: MySQL, PostgreSQL, MongoDB
-- 📡 **Cloud & DevOps**: AWS (EC2, S3, RDS), Kubernetes, CI/CD
-- 🔧 **Problem-Solving**: Data Structures & Algorithms (LeetCode)
+## 🚀 About Me
+- 🎓 CS @ University of Alberta · MEd @ University of Toronto  
+- 💼 Backend & AI-focused developer based in Calgary  
+- 🔭 Currently transitioning into **AI Engineering**  
+- ❤️ Interested in LLM applications, automation tools, and intelligent systems  
 
-🔹 **Projects**
-- 📦 **E-Commerce Backend (Spring Boot + MySQL + Kafka + AWS)**
-  - **Built a scalable e-commerce platform** with user authentication, order management, and product catalog.
-  - **Optimized system performance** by implementing Redis caching and async processing with Kafka.
-  - **[GitHub Repo](https://github.com/AdelineXu-SDE/springboot-ecommerce)**
+---
 
-📫 **Reach Me**:  
-- ✉️ Email: `adelinexu22@gmail.com`
-- 🌐 LinkedIn: www.linkedin.com/in/xu-jiayi-adeline
+## 🧠 Technical Skills
+- **Languages:** Python, Java, SQL  
+- **Backend:** Spring Boot, REST APIs, MySQL  
+- **AI / LLMs:** OpenAI API, prompt engineering, RAG basics  
+- **Tools:** Docker, Kafka, Git, Linux  
+- **Cloud:** AWS (EC2, S3)
 
-**🚀 Let’s build something amazing together!**
+---
+
+## 📌 Featured Projects
+
+### 🔹 AI Brochure Generator (Python + OpenAI)
+A modular AI pipeline that:  
+- Scrapes website content via Requests + BeautifulSoup  
+- Uses a small LLM to classify “brochure-relevant” pages  
+- Uses a stronger LLM to generate a polished marketing brochure in Markdown  
+👉 Demonstrates data ingestion → filtering → LLM orchestration in a real-world scenario.
+
+### 🔹 Ecommerce Backend (Java + Spring Boot + MySQL + Kafka)
+- End-to-end e-commerce backend with authentication, order management, product catalog  
+- Redis caching + async Kafka processing for performance  
+- Clean REST API design with scalable architecture  
+
+---
+
+## 📫 Connect With Me
+- ✉️ **adelinexu22@gmail.com**  
+- 🔗 LinkedIn: https://www.linkedin.com/in/xu-jiayi-adeline  
+
+---
+
+## ⭐ What I’m Focusing On
+- Building **AI-driven tools** with Python  
+- Strengthening **LLM workflows**, agents, and data pipelines  
+- Preparing for **AI Engineer / SDE roles** in 2026  
+
+---
