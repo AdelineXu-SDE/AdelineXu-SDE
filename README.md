@@ -3,7 +3,7 @@
 AI Engineer / Backend Engineer  
 Agentic Systems • LLM Orchestration • Scalable Backend
 
-📍Canada
+📍 Calgary, Canada
 
 ---
 
@@ -50,4 +50,30 @@ Orchestrator–Researcher–Editor architecture for complex financial analysis.
 Multi-agent pipeline for aggregating, ranking, and pricing real-world product deals.
 
 - Failure-isolated agents for scraping, normalization, and ranking  
-- Ensemble pricing strategy with specialist agents + fron
+- Ensemble pricing strategy with specialist agents + frontier models  
+
+🔗 https://github.com/AdelineXu-SDE/price-is-right-agent
+
+🔹 **Spring Boot E-Commerce Backend**  
+Production-style backend with async processing and caching.
+
+- Auth, orders, product catalog  
+- Redis caching + Kafka for scalability  
+
+🔗 https://github.com/AdelineXu-SDE/springboot-ecommerce
+
+---
+
+🎯 Current Focus
+
+- Designing **robust agent workflows** with bounded reasoning
+- Improving RAG precision with structured retrieval
+- Building AI systems that are explainable, debuggable, and production-ready
+
+---
+
+🤝 Connect With Me
+
+📧 adelinexu22@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/xu-jiayi-adeline
+
