@@ -1,12 +1,13 @@
 👋 Hi, I'm Adeline Xu
 
-AI Engineer / Backend Engineer  
-Agentic Systems • LLM Orchestration • Scalable Backend
+**AI Engineer / Backend Engineer**  
+Agentic Systems • LLM Orchestration • Scalable Backend  
 
 📍 Calgary, Canada
 
+---
 
-### About Me
+## About Me
 
 I'm a software engineer with 3+ years of experience in backend systems and cloud infrastructure, currently focused on building **agent-based AI systems** that combine LLM orchestration, tool-use, and production-grade execution.
 
@@ -17,21 +18,25 @@ My work focuses on:
 
 I enjoy turning complex, open-ended problems into **controlled, auditable, and scalable AI systems**.
 
+---
 
-### Tech Stack
+## Tech Stack
 
-**Languages**  
-Python, Java, SQL
+### Languages
+- Python, Java, SQL
 
-**AI / Agent Systems**  
-LangGraph, DeepAgents, Hybrid RAG (Dense + Sparse), Tool-augmented LLMs, Function Calling
+### AI / Agent Systems
+- LangGraph, DeepAgents
+- Hybrid RAG (Dense + Sparse)
+- Tool-augmented LLMs, Function Calling
 
-**Backend & Infra**  
-Spring Boot, Kafka, Redis, MySQL, SQLite  
-AWS (EC2, S3), Docker, Git, Linux
+### Backend & Infrastructure
+- Spring Boot, Kafka, Redis, MySQL, SQLite  
+- AWS (EC2, S3), Docker, Git, Linux
 
+---
 
-### Featured Projects
+## Featured Projects
 
 🔹 **Agentic Financial Deep Research System**  
 Orchestrator–Researcher–Editor architecture for complex financial analysis.  
@@ -45,13 +50,15 @@ Multi-agent pipeline with failure isolation and ensemble strategies.
 Production-style backend with async processing and caching.  
 🔗 https://github.com/AdelineXu-SDE/springboot-ecommerce
 
+---
 
-### Current Focus
+## Current Focus
 
 - Designing **robust agent workflows** with bounded reasoning
-- Improving RAG precision with structured retrieval
-- Building AI systems that are explainable, debuggable, and production-ready
+- Improving **RAG precision** with structured retrieval
+- Building AI systems that are **explainable, debuggable, and production-ready**
 
+---
 
 📧 adelinexu22@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/xu-jiayi-adeline
